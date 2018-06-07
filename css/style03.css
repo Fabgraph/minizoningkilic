@@ -1,0 +1,161 @@
+nav{
+    background:#333333;
+    float: right;
+    width: 100%;
+    height: 100%;
+    
+}
+section{
+    background: #5098db;
+    float: right;
+    width: 70%;
+}
+footer{
+    background: #333333;
+    width: 100%;
+    height: 70px;
+    margin-top: 20px;
+}
+header{
+    background: #333333;
+    width: 100%;
+    float: left;
+}
+body{
+    background: #ffe4c4;
+    color: #fff;
+    font-size: 1.8em;
+    font-weight: bold;
+    margin: 0 auto;
+}
+.asidep{
+    background: #333333;
+    float: left;
+    width: 30%;
+    /* height: 200px; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.clear{
+    clear: both;
+}
+.principale{
+    background: white;
+    width: 80%;
+    margin: 0 auto;
+}
+.secon{
+    background: #000000;
+    float: right;
+    width: 70%;    
+} 
+.ulnav{
+    list-style-type: none;
+}
+.ulnav li{
+    border: 2px solid white;
+    text-align: center;
+    width: 90%;
+    margin: 3px;
+    background: #999999;
+}
+.ulnav li:hover{
+    background: #999999;
+    border: 2px solid #999999;
+}
+a:visited{
+    color: white;
+    text-decoration: none;
+}
+a:link{
+    text-decoration: none;
+    color: white;
+}
+.section_manga{
+    background: rgb(255, 95, 37);
+    width: 100%;
+}
+.section_music{
+    width: 100%;
+}
+.ulhead li{
+    display: inline-block;
+    border: 1px solid white;
+    list-style-type: none;
+    margin: 0 auto;
+    width: 20%;
+    background: #8a8a8a;
+    margin-right: 10px;
+    padding: 2px;
+}
+.ulhead li:hover{
+    border: 1px solid #8a8a8a;
+}
+.ulhead{
+    margin: 0 auto;
+}
+.manga1{
+    height: 420px;
+    margin: 0 auto;
+    background:  rgb(255, 117, 67);
+    float: left;
+    width: 50%;
+}
+.manga1 div h2{
+    background: #333333;
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+    opacity: 0.7;
+}
+.manga2{
+    height: 420px;
+    margin: 0 auto;
+    background: rgb(255, 117, 67);
+    float: right;
+    width: 50%;
+}
+.manga2 div{
+    background: #333333;
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+    height: 100px;
+    opacity: 0.7;
+}
+.music1{
+    height: 420px;
+    background: #74bcff;
+    float: left;
+    width: 50%;
+    margin: 0 auto;
+}
+.music1 div{
+    background: #333333;
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+    height: 100px;
+    opacity: 0.7;
+
+}
+.music2{
+    margin: 0 auto;
+    height: 420px;
+    background: #74bcff;
+    float: right;
+    width: 50%;
+}
+.music2 div{
+    background: #333333;
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+    height: 100px;
+    opacity: 0.7;
+}
+.guts1{
+    background: url(../img/Manga.png) no-repeat;
+    background-size: 100% 100%;
+    height: 100%;
+}

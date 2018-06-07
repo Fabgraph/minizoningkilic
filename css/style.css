@@ -1,0 +1,69 @@
+body{
+    background: pink;
+    color: white;
+}
+header{
+    background: forestgreen;
+}
+.blanc{
+    background: whitesmoke;
+}
+.orange{
+    background: orangered;
+}
+.noir{
+    background: black;
+}
+.bleu_clair{
+    background: lightblue;
+}
+.vert{
+    background: yellowgreen;
+}
+.bleu2{
+    background: cadetblue;
+}
+.bleu3{
+    background: darkcyan;
+}
+.violet{
+    background: crimson;
+}
+.main{
+    width: 1001px;
+}
+.divp{
+    float: left;
+    width: px;
+}
+.nav{
+    float: left;
+    width: 1000px;;
+}
+.aside{
+    float: left;
+    width: 400px;
+    height: 300px;
+}
+.divs{
+    float: left;
+}
+section{
+    float: left;
+    width: 600px;
+    height: 200px;
+    margin-top: 20px;
+}
+.article1{
+    float: left;
+    height: 150px;
+    width: 150px;
+}
+.article2{
+    float: right;
+    height: 150px;
+    width: 150px;
+}
+.clear{
+    clear: both;
+}
